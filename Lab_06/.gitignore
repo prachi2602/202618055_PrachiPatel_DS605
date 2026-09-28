@@ -1,0 +1,9 @@
+# Ignore full image dataset
+dataset/448/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
